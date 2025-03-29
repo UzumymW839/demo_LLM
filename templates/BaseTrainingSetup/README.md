@@ -1,0 +1,1 @@
+this will be filled with specific functions and utilitys. It will be meant as a basis for future AI training.

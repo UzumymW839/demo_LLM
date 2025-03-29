@@ -1,0 +1,12 @@
+{
+    "experiment_name": "dummy_experiment",
+    "n_gpus": 1,
+    "n_workers": 1,
+
+    "model": {
+        "name": "dummy_model",
+        "args": {
+            
+        }
+    }
+}
